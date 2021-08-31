@@ -45,45 +45,37 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/3.png)
 
-1. Verify you that the **Labels** tab on the top of the page is selected (underlined).
+1. Verify you that the **Labels** tab on the top of the page is selected (underlined). Now select **Create a label**
 
-    ![](../Images/module4/lab13/4-1.png)
-
-1. In the middle of the page, notice how there are either two or three labels already created.  Select any one.  A window opens that provides information about this label.  Note how this label is set to support both encryption and content marking.  Select Edit Label at the top of the page to view some of the basic configuration settings.
-
-    ![](../Images/module4/lab13/4.png)
+    ![](../Images/module4/lab13/create-label.png)
 
 1. Configuration starts with providing a name and description for your label.  Don’t change anything.  Select **Next** at the bottom of the page.
 
-    ![](../Images/module4/lab13/5.png)
+    ![](../Images/module4/lab13/4.1.png)
 
 1. Note the scope for this label.  The scope is set to Files & emails to which you can configure Encryption and content marking settings to protect labeled emails and office files.  Don’t change anything.  Select **Next** at the bottom of the page.
 
-    ![](../Images/module4/lab13/6.png)
+    ![](../Images/module4/lab13/5.png)
 
 1. For the selected scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each.  Don’t change anything.  Select **Next** at the bottom of the page.
 
-    ![](../Images/module4/lab13/7.png)
-
-1. The Encryption window shows the configuration for the encryption settings.  Don’t change anything.  Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire.  You can also assign permissions to specific users and groups so only they can interact with content that has this label applied.  Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.  The finance team is also listed and they have co-author permissions.  Don’t change any settings.  Select **Next** on the bottom of the page.
-
-    ![](../Images/module4/lab13/8.png)
-
-1. On the content markings page, take note of the information box on the top of the page.  Content markings will be applied to documents but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.  The content marking associated with this label is a watermark.  Don’t change any settings.  Select **Next** on the bottom of the page.
-
-    ![](../Images/module4/lab13/9.png)
+    ![](../Images/module4/lab13/6.png)
 
 1. You are now in the Auto-labeling for files and emails window.  Read the description of auto-labeling on the top of the page and the information box below it.  Also take note that this label is set for auto-labeling for specific conditions. Don’t change any settings.  Select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/10.png)
+    ![](../Images/module4/lab13/7.png)
 
 1. This next window defines protection settings for teams, groups, and sites that have this label applied. This is not enabled, select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/11.png)
+    ![](../Images/module4/lab13/8.png)
 
-1. This next window is a preview feature to automatically apply this label to Azure database columns (such as SQL, Synapse, and more) that contain the sensitive info types you choose.  This features is not enabled. Select **Cancel** at the bottom of the page to exit the label configuration wizard and return to the Information Protection page.
+1. This next window is a preview feature to automatically apply this label to Azure database columns (such as SQL, Synapse, and more) that contain the sensitive info types you choose.  This features is not enabled. Select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/12.png)
+    ![](../Images/module4/lab13/9.png)
+    
+1.  Review the settings and click on **Create label**
+
+    ![](../Images/module4/lab13/10.png)
 
 1. From the top of the Information protection page, select **Label policies**.  It is through label policies that sensitivity labels can be published.
 
