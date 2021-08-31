@@ -85,7 +85,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/publish-label.png)
     
-1. Select **sensitivity labels to publish** and select **IT-Department-Demo**. A window opens that provides information about the policy.  This policy serves to publish the Confidential-Finance Policy labels and protects data that contains financial data for Contoso.  Also note how this policy is published to all. Select **Next** on the bottom of the page. And click on **Next**.
+1. Select **Choose sensitivity labels to publish**. A window opens that provides information about the policy. This policy serves to publish the IT-Department-Demo. Select **IT-Department-Demo** from label and select **Add** on the bottom of the page. And then click on **Next**.
 
     ![](../Images/module4/lab13/14.png)
     
@@ -100,11 +100,11 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
     ![](../Images/module4/lab13/16.png)
 
 
-1. Under the **Default label to documents**.  Don’t change any settings.  Select **Next** on the bottom of the page.
+1. Under the **Apply a Default label to documents**.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
     ![](../Images/module4/lab13/17.png)
 
-1. Under the **Deafult label to emails**.  Don’t change any settings.  Select **Next** on the bottom of the page.
+1. Under the **Apply a Default label to emails**.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
     ![](../Images/module4/lab13/18.png)
 
@@ -122,7 +122,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
     
     ![](../Images/module4/lab13/22.png)    
     
-**Note**- The label created cannot be deleted, it can only be edited.    
+**Note**- The label created cannot be deleted, it can only be edited. 
 
 1. From the left navigation panel, select Home to return to the Microsoft 365 compliance center.
 
