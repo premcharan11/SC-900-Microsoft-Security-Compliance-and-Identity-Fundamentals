@@ -49,7 +49,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/create-label.png)
 
-1. Configuration starts with providing a name and description for your label.  Don’t change anything.  Select **Next** at the bottom of the page.
+1. Configuration starts with providing a name and description for your label. Select **Next** at the bottom of the page.
 
     ![](../Images/module4/lab13/4.1.png)
 
