@@ -104,7 +104,7 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
 
      ![](../Images/module4/lab12/new3.png)
 
-1. From the top of the page, select **Assessment templates**.  This page lists the available templates. You can crate assessments for your organization by using an existing template or you can create a new template.
+1. From the top of the page, select **Assessment templates**.  This page lists the available templates. You can create assessments for your organization by using an existing template or you can create a new template.
 
      ![](../Images/module4/lab12/new4.png)
  
