@@ -61,7 +61,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
 
     ![](../Images/module4/lab15/4.png)
 
-1. From the list of names, select **MOD Administrator**, **Megan Bowen** and your account ie. name with **ODL_User uniqueID** then select **Add** at the bottom of the page, then select **Done** at the bottom of the page.
+1. From the list of names, select **ODL Administrator**, **Megan Bowen** and your account ie. name with **ODL_User uniqueID** then select **Add** at the bottom of the page, then select **Done** at the bottom of the page.
 
     ![](../Images/module4/lab15/5.png)
     
@@ -77,7 +77,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
 
 1. Close all the tabs except the **admin.microsoft.com** and then sign out from the admin center page and sign-in back again to reflect the permissions added for users faster.
 
-#### Task 2:  In this task you, as an eDiscovery Administrator (MOD admin is an eDiscovery administrator), will create a case to start using Core eDiscovery.
+#### Task 2:  In this task you, as an eDiscovery Administrator (ODL admin is an eDiscovery administrator), will create a case to start using Core eDiscovery.
 
 1. Open the Microsoft 365 admin center tab on your browser.
 
