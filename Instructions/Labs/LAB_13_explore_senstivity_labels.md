@@ -65,7 +65,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/7.png)
 
-1. This next window defines protection settings for teams, groups, and sites that have this label applied. This is not enabled, select **Next** on the bottom of the page.
+1. This next window defines protection settings for groups, and sites that have this label applied. This is not enabled, select **Next** on the bottom of the page.
 
     ![](../Images/module4/lab13/8.png)
 
