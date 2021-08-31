@@ -80,28 +80,41 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 1. From the top of the Information protection page, select **Label policies**.  It is through label policies that sensitivity labels can be published.
 
     ![](../Images/module4/lab13/13.png)
+    
+1. Select **Publish label**
 
-1. Select **Confidential-Finance Policy**.  A window opens that provides information about the policy.  This policy serves to publish the Confidential-Finance Policy labels and protects data that contains financial data for Contoso.  Also note how this policy is published to all. 
-
-1. Select **Edit** policy from the top of the window.
+    ![](../Images/module4/lab13/publish-label.png)
+    
+1. Select **sensitivity labels to publish** and select **IT-Department-Demo**. A window opens that provides information about the policy.  This policy serves to publish the Confidential-Finance Policy labels and protects data that contains financial data for Contoso.  Also note how this policy is published to all. Select **Next** on the bottom of the page. And click on **Next**.
 
     ![](../Images/module4/lab13/14.png)
-
-1. Read the description under “Choose sensitivity labels to publish”.  Notice the label that is listed.  Don’t change any settings.  Select **Next** on the bottom of the page.
-
-    ![](../Images/module4/lab13/15.png)
+    
+     ![](../Images/module4/lab13/14.1.png)
 
 1. Read the description under “Publish to users and groups”.  Notice the this label is available to all users.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
+    ![](../Images/module4/lab13/15.png)
+
+1. Under the policy settings.  Don’t change any settings.  Select **Next** on the bottom of the page.
+
     ![](../Images/module4/lab13/16.png)
 
-1. Review the policy settings.  Don’t change any settings.  Select **Next** on the bottom of the page.
+
+1. Under the **Default label to documents**.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
     ![](../Images/module4/lab13/17.png)
 
-1. The last configuration option is to name your policy.  Don’t change any settings.  Select **Cancel** on the bottom of the page to exit the policy configuration and return to the Information protection page.
+1. Under the **Deafult label to emails**.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
     ![](../Images/module4/lab13/18.png)
+
+1. Under the **Apply a default label to Power BI content**.  Don’t change any settings.  Select **Next** on the bottom of the page.
+
+    ![](../Images/module4/lab13/19.png)
+
+3. The last configuration option is to name your policy. Enter the policy name as **IT-Department-Policy**.  Select **Next** on the bottom of the page to exit the policy configuration and return to the Information protection page.
+
+    ![](../Images/module4/lab13/20.png)
 
 1. From the Information protection page, select Auto-labeling.  Note there is no auto-labeling policy configured.  Don’t change any settings.  If you are wondering why there is no policy here, given that the label configuration is set to auto-labeling for files and emails, go back to the steps where you walked through the label configuration settings and review the description and information boxes associated Auto-labeling for files and emails.  Hint:  In the auto labeling tab for the sensitivity lab, it says.  "To automatically apply this label to files that are already saved (in SharePoint and OneDrive) or emails that are already processed by Exchange, you must create an auto-labeling policy."
 
