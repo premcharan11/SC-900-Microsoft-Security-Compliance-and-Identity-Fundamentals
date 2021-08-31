@@ -179,7 +179,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
     
     1. In the second field, select the location where you want to store the export file, then select **Start**.  Once the download process is completed, close this browser tab.
 
-    1. You will be back on the "Test Hold - Sales Search_Export" window.  Select **Close**.
+    1. You will be back on the "Test Hold - Sales Search_Export" window.  Select Close.
     
     1. Check the location of your download to verify the download was successfully completed. 
 
