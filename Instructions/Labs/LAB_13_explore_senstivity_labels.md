@@ -63,6 +63,8 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
     
 1. The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire.  You can also assign permissions to specific users and groups By clicking on the **Assign permission**.
     
+    ![](../Images/8.png)
+    
     ![](../Images/90.png)
   
 1. Click on **+Add User or Group**, select the name **ODL_USER_ID** and **Megan Bowen** and click on **Add** then back to Assign permission page, Click on **Save**.and so only they can interact with content that has this label applied.  Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.  The finance team is also listed and they have co-author permissions.  Don’t change any settings.  Select **Next** on the bottom of the page.
@@ -74,23 +76,19 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
 1. On the content markings page, take note of the information box on the top of the page. Turn on the Content Making and select **Add a watermark**, **Add a header**, & **Add a footer**, and click on **Customize text** on each and provide the text to it and click on **Save**.  Content markings will be applied to documents but only headers and footers will be applied to email messages. In other words, watermarks are not applied to emails.  The content marking associated with this label is a watermark. Select **Next** on the bottom of the page.
 
-    ![](../Images/8.png)
+      ![](../Images/9.png)
 
 1. You are now in the Auto-labeling for files and emails window. Turn on the **Auto-labeling for files and emails** and Read the description of auto-labeling on the top of the page and the information box below it. Select **Next** on the bottom of the page.
 
-    ![](../Images/9.png)
+      ![](../Images/10.png)
 
 1. This next window defines protection settings for groups, and sites that have this label applied. This is not enabled, select **Next** on the bottom of the page.
 
-    ![](../Images/10.png)
+      ![](../Images/11.png)
 
 1. This next window is a preview feature to automatically apply this label to Azure database columns (such as SQL, Synapse, and more) that contain the sensitive info types you choose.  This features is not enabled. Select **Next** on the bottom of the page.
-
-    ![](../Images/11.png)
-    
-1.  Review the settings and click on **Create label**
-
-    ![](../Images/12.png)
+       
+1.  Review the settings and click on **Create label**.
 
 1. From the top of the Information protection page, select **Label policies**.  It is through label policies that sensitivity labels can be published.
 
