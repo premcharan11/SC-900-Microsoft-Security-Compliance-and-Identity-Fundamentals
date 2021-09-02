@@ -57,9 +57,9 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/5.png)
 
-1. For the selected scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each. Select **Next** at the bottom of the page.
+1. select the scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each. Select **Next** at the bottom of the page.
 
-    ![](../Images/module4/lab13/6.png)
+    ![](../Images/722.png)
 
 1. You are now in the Auto-labeling for files and emails window.  Read the description of auto-labeling on the top of the page and the information box below it.  Also take note that this label is set for auto-labeling for specific conditions. Don’t change any settings.  Select **Next** on the bottom of the page.
 
