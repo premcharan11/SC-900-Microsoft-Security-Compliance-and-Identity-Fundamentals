@@ -55,7 +55,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
 1. Note the scope for this label.  The scope is set to Files & emails to which you can configure Encryption and content marking settings to protect labeled emails and office files, and also select the Azure Purview assets(preview) scope.  Select **Next** at the bottom of the page.
 
-    ![](../Images/module4/lab13/5.png)
+    ![](../Images/module4/lab13/6.png)
 
 1. select the scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each. Select **Next** at the bottom of the page.
 
@@ -80,15 +80,15 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
 1. You are now in the Auto-labeling for files and emails window. Turn on the **Auto-labeling for files and emails** and Read the description of auto-labeling on the top of the page and the information box below it. Select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/7.png)
+    ![](../Images/module4/lab13/10.png)
 
 1. This next window defines protection settings for groups, and sites that have this label applied. This is not enabled, select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/8.png)
+    ![](../Images/module4/lab13/11.png)
 
 1. This next window is a preview feature to automatically apply this label to Azure database columns (such as SQL, Synapse, and more) that contain the sensitive info types you choose.  This features is not enabled. Select **Next** on the bottom of the page.
 
-    ![](../Images/module4/lab13/9.png)
+    ![](../Images/module4/lab13/12.png)
     
 1.  Review the settings and click on **Create label**
 
