@@ -53,11 +53,11 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
     ![](../Images/module4/lab13/4.1.png)
 
-1. Note the scope for this label.  The scope is set to Files & emails to which you can configure Encryption and content marking settings to protect labeled emails and office files.  Don’t change anything.  Select **Next** at the bottom of the page.
+1. Note the scope for this label.  The scope is set to Files & emails to which you can configure Encryption and content marking settings to protect labeled emails and office files, and also select the Azure Purview assets(preview) scope.  Select **Next** at the bottom of the page.
 
     ![](../Images/module4/lab13/5.png)
 
-1. For the selected scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each.  Don’t change anything.  Select **Next** at the bottom of the page.
+1. For the selected scope, Files & emails, you can configure to encrypt and/or mark the content.  Note how the protection settings for files and emails is set for both encryption and marking the content of files.  Review the definition of each. Select **Next** at the bottom of the page.
 
     ![](../Images/module4/lab13/6.png)
 
