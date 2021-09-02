@@ -62,8 +62,6 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
     ![](../Images/722.png)
     
 1. The Encryption window shows the configuration for the encryption settings. Review the information box under Configure encryption settings and review the configured settings. Notice how the user access to content is set to never expire.  You can also assign permissions to specific users and groups By clicking on the **Assign permission**.
-
-    ![](../Images/module4/lab13/8.png)
     
     ![](../Images/90.png)
   
