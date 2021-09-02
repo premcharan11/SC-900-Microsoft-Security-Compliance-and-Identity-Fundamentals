@@ -172,6 +172,10 @@ In this lab you will go through the steps required for setting up Core eDiscover
       ![](../Images/module4/lab15/24.png)
     
       ![](../Images/module4/lab15/25.png)
+      
+    1. From the Export results window, leave the defaults and select **Export** from the bottom of the page. You will automatically be returned to the "Test Hold - Sales search" window. Select **close** on teh bottom of the page.
+
+         ![](../Images/module4/lab15/26.png)  
     
     1. From the SC900-Test case page, select **Exports** from the top of the page.
     1. Select **Test Hold - Sales Search_Export**
