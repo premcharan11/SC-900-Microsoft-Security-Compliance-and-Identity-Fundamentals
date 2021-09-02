@@ -29,10 +29,6 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
      
     1. When prompted to stay signed- in, select **Yes**. This takes you to the Microsoft 365 admin center page.
 
-1. From the left navigation pane of the Microsoft 365 admin center, select **Show all**.
-
-     ![](../Images/module4/lab12/1-1.png)
-
 1. Under Admin centers, select **Compliance**.  A new browser page opens to the welcome page of the Microsoft 365 compliance center.
 
      ![](../Images/module4/lab12/1.png)
@@ -62,6 +58,10 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
      ![](../Images/module4/lab12/4-1.png)
      
      ![](../Images/module4/lab12/4-2.png)
+     
+1. From the left navigation pane of the Microsoft 365 admin center, select **Show all**.
+
+     ![](../Images/module4/lab12/1-1.png)
      
 1. Leave the browser tab open.
 
