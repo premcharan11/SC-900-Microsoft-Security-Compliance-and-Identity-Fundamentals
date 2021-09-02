@@ -145,7 +145,13 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 
 1. Select **+ New blank document**, then enter some text on the page.  On the blue bar on the top of the page, select the down-arrow, next to where it says DocumentXX - Saved, and in the File Name box enter, **Test-label**.
 
+1. From the top menu bar, select **Sensitivity**. From the drop down select **IT-Department-Demo**.
+
+      ![](../Images/95.png)      
+
 1. From the top menu bar, select **View**, then select **Reading view**.
+
+      ![](../Images/96.png)            
 
 1. Notice how the document includes the watermark.  
 
