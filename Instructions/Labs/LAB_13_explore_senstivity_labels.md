@@ -15,7 +15,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
 1. Sign in with your admin credentials.
     1. In the Sign in window, Get the user credentials provided in the environment details page and paste the value in the username section and then select **Next**.
      
-        ![](../Images/module4/lab11/1-1.png)
+        ![](../Images/98.png)
      
         ![](../Images/module4/lab12/main-2.png)
     
