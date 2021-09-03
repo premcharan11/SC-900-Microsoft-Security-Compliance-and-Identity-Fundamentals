@@ -11,7 +11,7 @@ In this lab, you will explore the features and content available from the Servic
 
 1. Open Microsoft Edge. Navigate to **https://portal.azure.com/** and sign in with the user credentials provided in the environment details page.
 
-   ![](../Images/module4/lab11/1-1.png)
+   ![](../Images/98.png)
 
 1. In the same window open another tab and enter **https://servicetrust.microsoft.com/**.  This will bring you to the landing page for the Service Trust Portal. The Service Trust Portal contains details about Microsoft's implementation of controls and processes that protect our cloud services and the customer data therein. 
 
