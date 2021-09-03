@@ -65,7 +65,7 @@ In this lab you will explore the capabilities of sensitivity labels.  You will g
     
     ![](../Images/90.png)
   
-1. Click on **+Add User or Group**, select the name **ODL_USER_ID** and **Megan Bowen** and click on **Add** then back to Assign permission page, Click on **Save**.and so only they can interact with content that has this label applied.  Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.  The finance team is also listed and they have co-author permissions.  Don’t change any settings.  Select **Next** on the bottom of the page.
+1. Click on **+Add User or Group**, select your user name  and **Megan Bowen** and click on **Add** then back to Assign permission page, Click on **Save**.and so only they can interact with content that has this label applied.  Under users and groups, the tenant is defined so all users in your tenant can view content that has this label.  The finance team is also listed and they have co-author permissions.  Don’t change any settings.  Select **Next** on the bottom of the page.
 
       ![](../Images/91.png)
       
