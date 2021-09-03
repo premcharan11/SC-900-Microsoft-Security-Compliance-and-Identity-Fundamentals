@@ -15,7 +15,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
 1. Sign in with your admin credentials.
     1. In the Sign in window, Get the user credentials provided in the environment details page and paste the value in the username section and then select **Next**.
      
-        ![](../Images/module4/lab11/1-1.png)
+        ![](../Images/98.png)
      
         ![](../Images/module4/lab12/main-2.png)
     
@@ -61,7 +61,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
 
     ![](../Images/module4/lab15/4.png)
 
-1. From the list of names, select **MOD Administrator**, **Megan Bowen** and your account ie. name with **ODL_User uniqueID** then select **Add** at the bottom of the page, then select **Done** at the bottom of the page.
+1. From the list of names, select **ODL Administrator**, **Megan Bowen** and your account ie. name with **ODL_User uniqueID** then select **Add** at the bottom of the page, then select **Done** at the bottom of the page.
 
     ![](../Images/module4/lab15/5.png)
     
@@ -77,7 +77,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
 
 1. Close all the tabs except the **admin.microsoft.com** and then sign out from the admin center page and sign-in back again to reflect the permissions added for users faster.
 
-#### Task 2:  In this task you, as an eDiscovery Administrator (MOD admin is an eDiscovery administrator), will create a case to start using Core eDiscovery.
+#### Task 2:  In this task you, as an eDiscovery Administrator (ODL admin is an eDiscovery administrator), will create a case to start using Core eDiscovery.
 
 1. Open the Microsoft 365 admin center tab on your browser.
 
@@ -167,15 +167,15 @@ In this lab you will go through the steps required for setting up Core eDiscover
 
     ![](../Images/module4/lab15/22.png)
 
-1. From the bottom of the page, select **Actions**.  Note the available options, then select **Export results**.
+1. From the bottom of the page, select **Actions**.  Note the available options. By selecting **Export results**, search results can be downloaded. 
 
-    ![](../Images/module4/lab15/24.png)
+      ![](../Images/module4/lab15/24.png)
     
-    ![](../Images/module4/lab15/25.png)
-    
-    1. From the Export results window, leave the defaults and select **Export** from the bottom of the page. You will automatically be returned to the "Test Hold - Sales search" window. Select **close** on teh bottom of the page.
+      ![](../Images/module4/lab15/25.png)
+      
+    1. From the Export results window, leave the defaults and select **Export** from the bottom of the page. You will automatically be returned to the "Test Hold - Sales search" window. Select **close** on the bottom of the page.
 
-         ![](../Images/module4/lab15/26.png)
+         ![](../Images/module4/lab15/26.png)  
     
     1. From the SC900-Test case page, select **Exports** from the top of the page.
     1. Select **Test Hold - Sales Search_Export**
@@ -184,7 +184,7 @@ In this lab you will go through the steps required for setting up Core eDiscover
     1. In the window that opens, "Test Hold - Sales Search_Export", you will see an Export key, select **Copy to clipboard**.
 
          ![](../Images/module4/lab15/28.png)
-    1. From the top of the window, select **Download results**. A new browser page opens and a pop-up window displays asking if you want to open this file, select **Open**.
+    1. From the top of the window, select **Download results.***(**Note**: You must use Microsoft Edge or Internet Explorer to download). A new browser page opens and a pop-up window displays asking if you want to open this file, select **Open**.
 
          ![](../Images/module4/lab15/29.png)
          
@@ -200,7 +200,6 @@ In this lab you will go through the steps required for setting up Core eDiscover
     1. You are back on the "Test Hold - Sales Search_Export" window.  Select **Close**.
     1. Check the location of your download to verify the download was successfully completed. 
 
-
 #### Review
 
-In this lab you went through the steps required to get started with core eDiscovery, including setting up the role permissions for eDiscovery and creating an eDiscovery case.  With the case, created you went through the Core eDiscovery workflow, by creating an eDiscovery hold, creating a search query, and then exporting the results of the search to use further investigation.
+In this lab you went through the steps required to get started with core eDiscovery, including setting up the role permissions for eDiscovery and creating an eDiscovery case.  With the case, created you went through the Core eDiscovery workflow, by creating an eDiscovery hold, creating a search query and then you read on the process of exporting the results of the search to use further investigation.

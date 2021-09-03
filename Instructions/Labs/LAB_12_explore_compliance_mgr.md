@@ -15,7 +15,7 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
 1. Sign in with your admin credentials.
     1. In the Sign in window, Get the user credentials provided in the environment details page and paste the value in the username section and then select **Next**.
      
-        ![](../Images/module4/lab11/1-1.png)
+        ![](../Images/98.png)
      
         ![](../Images/module4/lab12/main-2.png)
     
@@ -51,8 +51,6 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
 
      ![](../Images/module4/lab12/3.png)
      
-1. From the left navigation panel of the Microsoft 365 compliance center home page, notice that under Solutions only Catalog is displayed.  From the left navigation panel, select **...Show all**.  Notice how all the additional solutions appear under the solutions section.  
-1. Select **Show less** to hide.
 1. As the compliance admin, there may be a set of solutions that you manage for our organization and that you want to have always listed on the navigation panel.  To customize to your preferences select **Customize navigation**. 
 
      ![](../Images/module4/lab12/4.png)
@@ -63,15 +61,22 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
      
      ![](../Images/module4/lab12/4-2.png)
      
+1. From the left navigation panel of the Microsoft 365 compliance center home page, notice that under Solutions only Catalog is displayed.  From the left navigation panel, select **...Show all**.  Notice how all the additional solutions appear under the solutions section.  
+
+1. Select **Show less** to hide.
+     
 1. Leave the browser tab open.
 
 #### Task 2: Learn about your organization’s compliance posture through Compliance Manager.
 
 1. From the left navigation panel of the Microsoft 365 compliance center, select **Compliance Manager**.  Alternatively, you can select Compliance Manager on the title bar of the Compliance Manager card. Select **Show all** , if the options are not seen in the left navigation pane. 
 
-1. If a pop-up appears,Please close it. From the top of the Compliance Manager page, ensure **Overview** is selected (underlined). Scroll down to see all the information available on the page.  Information on this page includes your compliance score, as a percentage and based on your points achieved and Microsoft managed points achieved.   You will see Key improvement actions, Solutions that effect your score and compliance score breakdown by categories or assessments.
+1. If any pop-up appears, Please close it. From the top of the Compliance Manager page, ensure **Overview** is selected (underlined). Scroll down to see all the information available on the page.  Information on this page includes your compliance score, as a percentage and based on your points achieved and Microsoft managed points achieved.   You will see Key improvement actions, Solutions that effect your score and compliance score breakdown by categories or assessments.
 
      ![](../Images/module4/lab12/5.png)
+
+
+**Note**- If the Compliance Score is shown as zero percentage, try refreshing the page or sign-out and sign-in again.
 
 1. From the top of the Overview page, select **Improvement actions**.  These are actions that can improve the organization’s compliance score, points may take up to 24 hours to update.  Notice the available filters.
 
@@ -101,7 +106,7 @@ In this lab, you will explore the Microsoft 365 compliance center home page and 
 
      ![](../Images/module4/lab12/new3.png)
 
-1. From the top of the page, select **Assessment templates**.  This page lists the available templates. You can crate assessments for your organization by using an existing template or you can create a new template.
+1. From the top of the page, select **Assessment templates**.  This page lists the available templates. You can create assessments for your organization by using an existing template or you can create a new template.
 
      ![](../Images/module4/lab12/new4.png)
  
